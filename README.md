@@ -42,3 +42,16 @@ The MQTT Grammar is based only on version 3.1.1 of the standard.
 
 MQTTGRAM is available under *GPL-2.0-or-later*, meaning developers can use,
 modify and redistribute the source code according to their needs.
+
+## Citing MQTTGRAM
+The algorithm and results of MQTTGRAM were published at the IEEE Symposium on Computers and Communications (ISCC) 2021.
+
+```
+@INPROCEEDINGS{rodriguez:2021,
+  author={Araujo Rodriguez, Luis Gustavo and Batista, Daniel Macêdo},
+  booktitle={Proceedings of the IEEE Symposium on Computers and Communications}, 
+  title={Towards Improving Fuzzer Efficiency for the MQTT Protocol}, 
+  year={2021},
+  pages={1-7},
+  doi={10.1109/ISCC53001.2021.9631520}}
+```
